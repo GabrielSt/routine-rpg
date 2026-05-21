@@ -39,8 +39,7 @@ coverage
 *.sw?
 Thumbs.db
 
-# Spec Kit — local session memory, not project artifacts
-.specify/memory/
+# Spec Kit — generated tooling scripts, not project artifacts
 .specify/scripts/
 
 # OpenCode session files
